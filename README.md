@@ -22,9 +22,8 @@ continuous Y stream. The Y stream is obtained as an alternating chaining of the 
 
 The output sequence Z is the parallelization, over 8 bits, of the continuous stream Y.
 
-<img alt="" src="https://github.com/christian-confalonieri/Prova-Finale-Reti-Logiche-2021-2022/blob/main/readme-images/convolutore.png">
-
-<img alt="" src="https://github.com/christian-confalonieri/Prova-Finale-Reti-Logiche-2021-2022/blob/main/readme-images/convolutore_fsm.png">
+<img alt="" src="readme-images/convolutore.png" height=170px align="left" border="2%"/>
+<img alt="" src="readme-images/convolutore_fsm.png" height=170px border="2%"/>
 
 <h2>Copyright and license</h2>
 
