@@ -1,4 +1,4 @@
-<h1>Digital Circuit Design Project</h1>
+<h1>Convolutional Encoder</h1>
 
 [![License: MIT][license-image]][license]
 
