@@ -2,7 +2,7 @@
 
 [![License: MIT][license-image]][license]
 
-This is the final test of "**Reti Logiche**", course of "**Computer Engineering**" held at Politecnico di Milano (2021/2022).
+This is the final test of "**Reti Logiche**", course of "**Computer Science and Engineering**" (BSc) held at Politecnico di Milano (2021/2022).
 
 **Professor**: William Fornaciari
 
