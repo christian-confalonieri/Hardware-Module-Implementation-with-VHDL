@@ -31,5 +31,5 @@ This project is copyright 2022.
 
 Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
 
-[license]: https://github.com/christian-confalonieri/Convolutional-Encoder-Prova-Finale-Reti-Logiche-2021-2022/blob/main/LICENSE
+[license]: https://github.com/christian-confalonieri/Hardware-Module-Implementation-with-VHDL/blob/main/LICENSE
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
